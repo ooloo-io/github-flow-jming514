@@ -12,7 +12,7 @@ body {
 }
 
 .footer {
-  height: 50px;
+  height: 49px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,5 +20,5 @@ body {
 }
 
 .content {
-    min-height: calc(100vh - 100px);
+  min-height: calc(100vh - 100px);
 }
